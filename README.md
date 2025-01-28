@@ -1,4 +1,4 @@
-<h1 align="center"> iPaymentButton 💵 </p>
+<h1 align="center"> Welcome to Ervin iPaymentButton 💵 </p>
 <h3 align="center"> Quickly implement & easily customize the Apple Pay button. 🤑</h3>
 <p align="center">
     <strong><a href="#get-started">Get Started</a></strong> |
@@ -97,7 +97,4 @@ Modifier or Initializer | Description
 `action: @escaping () -> Void` | The action to be performed when the user taps the button. 🎬▶️
 `.cornerRadius(radius: CGFloat) -> iPaymentButton` | Modifies the corner radius of the payment button ⬛️⚫️. To remove the rounded courners, set this value to 0.0 0️⃣👌. The default value is set to 4.0 🍀.
 
-
-## Install 
-Use the Swift package manager to install. Find instructions [here](https://github.com/benjaminsage/iPaymentButton/blob/main/INSTALL.md)😀
 
